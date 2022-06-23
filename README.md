@@ -1,2 +1,2 @@
 # maze.asm
-And old college project. Probably doesn't even work.
+And old college project. Probably doesn't work anymore.
